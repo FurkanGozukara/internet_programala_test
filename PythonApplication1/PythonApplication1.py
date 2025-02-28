@@ -3,7 +3,7 @@
 import numpy as np
 
 
-value = 10
+value = 32
 
 value4 = 4
 valu3 = 3
