@@ -2,6 +2,7 @@
 
 import numpy as np
 
+value4 = 4
 valu3 = 3
 value1 = 0.1 + 0.2 # Will not be exactly 0.3 due to rounding errors
 value2 = 0.3
