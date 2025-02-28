@@ -6,6 +6,7 @@ import numpy as np
 
 value = 32
 
+tag1 = "test"
 
 value4 = 4
 valu3 = 3

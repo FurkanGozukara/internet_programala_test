@@ -1,0 +1,99 @@
+[33mcommit f57f44fb57959f99b93393dd821a79f6751b5b63[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: f0cb4de 23c3f2c
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 15:07:12 2025 +0300
+
+    fixed sync
+
+[33mcommit 23c3f2c77bbc7eda44d07cba9e30f40dc4b21d6f[m
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 15:06:28 2025 +0300
+
+    Update PythonApplication1.py
+
+[33mcommit f0cb4de6f285ab61007b05d4348700667e11a7d2[m
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 15:06:18 2025 +0300
+
+    degisiklik
+
+[33mcommit 5e112f68a3026d09e2b8831bb405c14c2af6f1e6[m
+Merge: 0db0ef9 d1b557c
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 15:05:31 2025 +0300
+
+    fixed merge
+
+[33mcommit d1b557cbf5d17391ddf219f2373d565463e706a0[m
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 15:04:46 2025 +0300
+
+    Update PythonApplication1.py
+
+[33mcommit 0db0ef9af8e36405312d0e894c3c97082bfe136f[m
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 15:04:31 2025 +0300
+
+    test b
+
+[33mcommit e3e8836cf57b3edf81593a3f3309480b54e7505c[m
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 15:03:11 2025 +0300
+
+    Update PythonApplication1.py
+
+[33mcommit 4bda9b73f39b221b3b18d36301a9f870021837e2[m
+Merge: 9012cda 7983bba
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 14:52:16 2025 +0300
+
+    completred
+
+[33mcommit 9012cda7bf78803199ab4688f48b9ffc809c2b78[m
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 14:50:27 2025 +0300
+
+    b2
+
+[33mcommit 7983bba850bd5a13e99a4d5f6154278312986b14[m[33m ([m[1;32ma1[m[33m)[m
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 14:50:08 2025 +0300
+
+    b1
+
+[33mcommit 9cb7d2762b3e883544a8b914bddb87e4b9be6115[m
+Merge: 336efe0 608a371
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 14:48:03 2025 +0300
+
+    merged
+
+[33mcommit 336efe0c709ab7c7c71dd5591045e5288fbf6f46[m
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 14:46:24 2025 +0300
+
+    v7 master
+
+[33mcommit 608a371fb333a2a4de0d462783ca3e172043c2b4[m
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 14:44:45 2025 +0300
+
+    v5
+
+[33mcommit 4d4f6bf10a6d5e5d8362886fca5506fa8bd9fe30[m
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 14:07:02 2025 +0300
+
+    v3
+
+[33mcommit de2e643bc68369ce86c1ec4ae283eab25c4d7efd[m
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 14:02:09 2025 +0300
+
+    v2
+
+[33mcommit 197a9215f2a666b3e306d386076de99db301d985[m
+Author: Furkan Gözükara <furkangozukara@gmail.com>
+Date:   Fri Feb 28 13:59:58 2025 +0300
+
+    v1
