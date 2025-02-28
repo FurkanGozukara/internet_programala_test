@@ -3,7 +3,7 @@
 import numpy as np
 
 
-value5 = 9
+value = 7
 
 value4 = 4
 valu3 = 3
