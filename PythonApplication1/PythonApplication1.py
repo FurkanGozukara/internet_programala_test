@@ -10,6 +10,8 @@ value2 = 0.3
 print(f"Value 1 (0.1 + 0.2): {value1}")
 print(f"Value 2 (0.3): {value2}")
 
+value6=6
+
 # Problematic direct equality comparison (will be False)
 if value1 == value2:
     print("Direct comparison (==): Value 1 == Value 2 (True - Incorrect)")
